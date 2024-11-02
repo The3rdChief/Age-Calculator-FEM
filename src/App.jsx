@@ -147,12 +147,12 @@ function App() {
             className="rounded-full p-4 bg-Purple size-[4rem] overflow-hidden relative group active:scale-95 active:shadow-xl"
           >
             <img
-              src="../public/images/icon-arrow.svg"
+              src="/images/icon-arrow.svg"
               alt=""
               className="size-9 absolute transition-all duration-300 -top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 group-hover:top-1/2"
             />
             <img
-              src="../public/images/icon-arrow.svg"
+              src="/images/icon-arrow.svg"
               alt=""
               className="size-9 absolute transition-all duration-300 top-1/2 -translate-y-1/2 left-1/2 -translate-x-1/2 group-hover:top-[200%]"
             />
